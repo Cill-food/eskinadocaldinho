@@ -49,8 +49,8 @@ body {
 }
 
 .topbar > img {
-  width: 30%;
-  height: 30%;
+  width: 15%;
+  height: 15%;
 }
 
 /* =============================
@@ -305,3 +305,4 @@ body {
   opacity: 1;
   visibility: visible;
 }
+
